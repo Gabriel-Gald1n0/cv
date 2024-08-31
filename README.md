@@ -5,7 +5,7 @@
 **Redes Sociais:**
 Twitter: @GabrielGald1n0
 Instagram: @gabriel_gald1n0
-
+[CURRICULUM](https://gabriel-gald1n0.github.io/cv/).
 
 **Fork do projeto:** 
 
