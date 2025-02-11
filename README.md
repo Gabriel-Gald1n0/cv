@@ -1,6 +1,6 @@
 # Curriculum Vitae - Gabriel Rosa Galdino
 
-**[Curriculum de Gabriel Rosa Galdino](https://gabriel-gald1n0.github.io/cv/)***
+**[Curriculum de Gabriel Rosa Galdino](https://gabriel-gald1n0.github.io/cv/)**
 
 **Redes Sociais:**
 
