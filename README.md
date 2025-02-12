@@ -1,11 +1,12 @@
 # Curriculum Vitae - Gabriel Rosa Galdino
 
-**Curriculum de Gabriel Rosa Galdino***
+**[Curriculum de Gabriel Rosa Galdino](https://gabriel-gald1n0.github.io/cv/)**
 
 **Redes Sociais:**
-Twitter: @GabrielGald1n0
-Instagram: @gabriel_gald1n0
 
+Twitter: @GabrielGald1n0
+
+Instagram: @gabriel_gald1n0
 
 **Fork do projeto:** 
 
